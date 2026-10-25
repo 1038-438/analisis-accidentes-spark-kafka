@@ -1,0 +1,7 @@
+data/
+resultados/
+checkpoint/
+__pycache__/
+*.pyc
+*.log
+ejecucion_batch.txt
